@@ -1,3 +1,3 @@
 {
-    "mongoURI" : "mongodb+srv://booklist:booklist@booklistcluster.zdawzrq.mongodb.net/?retryWrites=true&w=majority"
+    "mongoURI": "mongodb+srv://booklist:booklist@booklistcluster.zdawzrq.mongodb.net/MyDB?retryWrites=true&w=majority"
 }
